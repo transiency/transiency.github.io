@@ -87,7 +87,7 @@ Thanks for all the fish.
 
 ### Ccontact
 
-Check out my [website](https://xihai.info:8000).
+Check out my [website](http://xihai.info:8000).
 
 <ul class="list-container">
   {% for post in paginator.posts %}
@@ -102,3 +102,5 @@ Check out my [website](https://xihai.info:8000).
   </li>
   {% endfor %}
 </ul>
+
+{% include pagination.html %}
