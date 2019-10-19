@@ -1,1 +1,4 @@
 theme: jekyll-theme-architect
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
