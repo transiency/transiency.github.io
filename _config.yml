@@ -1,6 +1,0 @@
-theme: jekyll-theme-architect
-title: [Xihai's swimming pool]
-description: [Thanks for all the fish.]
-gems: [jekyll-paginate]
-paginate: 5
-paginate_path: "page:num"
